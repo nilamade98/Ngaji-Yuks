@@ -10,20 +10,25 @@ using System.Windows.Forms;
 
 namespace Ngajiyuks
 {
-    public partial class Form1 : Form
+    public partial class Form6 : Form
     {
-        public Form1()
+        public Form6()
         {
             InitializeComponent();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form2 lihat = new Form2();
+            Form4 lihat = new Form4();
             lihat.Show();
         }
 
-        
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form7 lihat = new Form7();
+            lihat.Show();
+        }
     }
 }

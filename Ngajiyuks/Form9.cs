@@ -10,20 +10,18 @@ using System.Windows.Forms;
 
 namespace Ngajiyuks
 {
-    public partial class Form1 : Form
+    public partial class Form9 : Form
     {
-        public Form1()
+        public Form9()
         {
             InitializeComponent();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Form2 lihat = new Form2();
+            Form16 lihat = new Form16();
             lihat.Show();
         }
-
-        
     }
 }

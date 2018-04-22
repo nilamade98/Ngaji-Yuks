@@ -1,0 +1,50 @@
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\bin\Debug\Ngajiyuks.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\bin\Debug\Ngajiyuks.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\bin\Debug\Ngajiyuks.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.exe
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.pdb
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form2.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form3.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form4.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form5.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form6.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form7.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form8.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form9.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form10.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form11.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form12.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form13.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form14.resources
+C:\Users\lenovo\Documents\Visual Studio 2015\Projects\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form15.resources
+D:\Ngajiyuks\Ngajiyuks\bin\Debug\Ngajiyuks.exe.config
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.exe
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.pdb
+D:\Ngajiyuks\Ngajiyuks\bin\Debug\Ngajiyuks.exe
+D:\Ngajiyuks\Ngajiyuks\bin\Debug\Ngajiyuks.pdb
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.csprojResolveAssemblyReference.cache
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form1.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form10.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form11.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form12.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form13.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form14.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form15.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form2.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form3.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form4.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form5.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form6.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form7.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form8.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form9.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Properties.Resources.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.csproj.GenerateResource.Cache
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form16.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form17.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form18.resources
+D:\Ngajiyuks\Ngajiyuks\obj\Debug\Ngajiyuks.Form19.resources
